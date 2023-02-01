@@ -1,4 +1,4 @@
-20586775916078139
+20591801689572027
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86212,12 +86212,33 @@ HDF3
 10
 10
 custom_kicad_lib_sk
+LED_NO_SILK
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+custom_kicad_lib_sk
+R_0805_SILK_VALUE
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+custom_kicad_lib_sk
 RosedaleAbbey
 
 
 0
 0
 0
+custom_kicad_lib_sk
+SW_NO_SILK
+tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm
+tact sw push 6mm
+0
+4
+2
 custom_kicad_lib_sk
 arrows
 
